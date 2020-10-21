@@ -35,6 +35,7 @@
 
 ###  📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Side Projects](https://dev.to/syntaxrob/side-projects-7b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
