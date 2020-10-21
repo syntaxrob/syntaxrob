@@ -41,4 +41,4 @@
 [twitter]: https://twitter.com/shroprob
 [email]: mailto:rob.penn@mail.com
 [linkedin]: https://www.linkedin.com/in/rob-penn-6178ba90/
-[stackoverflow]: https://stackoverflow.com/users/6914572/rob-p
+[stackoverflow]: https://stackoverflow.com/users/6914572/rob-p/
