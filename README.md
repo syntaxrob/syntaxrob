@@ -37,6 +37,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true" />
+
 [github]: https://github.com/syntaxrob/
 [twitter]: https://twitter.com/shroprob
 [email]: mailto:rob.penn@mail.com
