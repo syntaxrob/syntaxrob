@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true" />
+<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true&count_private=true" />
 
 [github]: https://github.com/syntaxrob/
 [twitter]: https://twitter.com/shroprob
