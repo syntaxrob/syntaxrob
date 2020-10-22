@@ -36,6 +36,7 @@
 
 ###  📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 things to get started](https://dev.to/syntaxrob/top-5-things-to-get-started-77j)
 - [Side Projects](https://dev.to/syntaxrob/side-projects-7b5)
 <!-- BLOG-POST-LIST:END -->
 
