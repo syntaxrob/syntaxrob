@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.syntaxrob.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.syntaxrob.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 [github]: https://github.com/syntaxrob/
 [twitter]: https://twitter.com/shroprob
