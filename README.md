@@ -4,7 +4,7 @@
 - 🥞 Full microsoft stack dev
 - 🧥 I'm currently learning Blazor
 - 🥅 2020 goal is to contribute more to open source and the online community
-- 🚲 I ride my bike alot
+- 🚲 I ride my bikes alot
 
 ### Get in touch:
 [<img align="left" alt="syntaxrob" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="syntaxrob's GitHub Stats" src="https://github-readme-stats.syntaxrob.vercel.app/api?username=syntaxrob&show_icons=true&hide_border=true&count_private=true" />
 
 [github]: https://github.com/syntaxrob/
 [twitter]: https://twitter.com/shroprob
