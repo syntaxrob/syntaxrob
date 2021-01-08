@@ -3,7 +3,7 @@
 ## I'm a developer living and working in Shropshire, UK
 - 🥞 Full microsoft stack dev
 - 🧥 I'm currently learning Blazor
-- 🥅 2020 goal is to contribute more to open source and the online community
+- 🥅 2021 goal is to contribute more to open source and the online community
 - 🚲 I ride my bikes alot
 
 ### Get in touch:
