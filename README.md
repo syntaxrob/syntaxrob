@@ -38,11 +38,11 @@
 
 ###  📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [F**k Facebook](https://dev.to/syntaxrob/f-k-facebook-49c3)
 - [Retrofitting .gitignore](https://dev.to/syntaxrob/retrofitting-gitignore-1o7p)
 - [Know when to walk away...](https://dev.to/syntaxrob/know-when-to-walk-away-6h9)
 - [Just so much... stuff](https://dev.to/syntaxrob/just-so-much-stuff-1595)
 - [Top 5 things to get started](https://dev.to/syntaxrob/top-5-things-to-get-started-77j)
-- [Side Projects](https://dev.to/syntaxrob/side-projects-7b5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
