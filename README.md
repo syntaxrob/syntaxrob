@@ -3,8 +3,8 @@
 ## I'm a developer living and working in Shropshire, UK
 - 🥞 Full microsoft stack dev
 - 🧥 I'm currently learning Blazor
-- 🥅 2021 goal is to contribute more to open source and the online community
-- 🚲 I ride my bikes alot
+- 🥅 2026 goal is to contribute more to open source and the online community
+- 🚲 I ride bikes alot
 
 ### Get in touch:
 [<img align="left" alt="syntaxrob" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -16,10 +16,10 @@
 
 ### Languages and tools
 
-<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/452/visual-studio-2019.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/960px-Visual_Studio_Icon_2026.svg.png" />
+<img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/452184/csharp.svg" />
 <img align="left" alt="Azure" width="26px" src="/azure.png" />
-<img align="left" alt="Blazor" width="26px" src="https://danpatrascu.com/wp-content/uploads/2019/05/blazorlogo.png" title="This is another goal for me, to become more proficient in Blazor" />
+<img align="left" alt="Blazor" width="26px" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" title="This is another goal for me, to become more proficient in Blazor" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -28,7 +28,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Azure" width="26px" src="https://i.pinimg.com/originals/34/20/e5/3420e571b3d7a4a348d8fad91e3bfda4.png" />
-<img align="left" alt="StackOverFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
+<img align="left" alt="StackOverFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/500px-Stack_Overflow_icon.svg.png" />
 <img align="left" alt="Postman" width="26px" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" />
 
 <br />
